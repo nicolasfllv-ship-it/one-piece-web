@@ -123,7 +123,7 @@ def inicio():
             </div>
 
             <div class="card">
-                <img src="/static/chopper.jpg">
+                <img src="/static/chopper_temp.jpg">
                 <h3>Chopper</h3>
                 <a href="/chopper">Ver</a>
             </div>
